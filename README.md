@@ -1,8 +1,4 @@
 # Linux-Ubuntu-simple-commands
-Here is a **professional README.md template** you can use for your GitHub repository **linux_ubuntu_simple_commands**. It includes **badges, sections, formatting, and a clean structure** so your repo looks professional.
-
-You can **copy and paste this directly into your `README.md` file**.
-
 ---
 
 # 🐧 Linux Ubuntu Simple Commands
@@ -189,7 +185,7 @@ Computer Science Student
 Learning **AI, Cloud Computing, and Linux**
 
 GitHub:
-[https://github.com/yourusername](https://github.com/yourusername)
+[https://github.com/Muntazer72](https://github.com/Muntazer72)
 
 ---
 
@@ -207,12 +203,4 @@ Replace these two things:
 
 ---
 
-If you want, I can also help you make this **even more impressive by adding:**
-
-* 🔥 **GitHub stats section**
-* 📊 **Command table instead of simple text**
-* ⭐ **Contribution section**
-* 🧠 **30+ Linux commands (more professional repo)**
-
-Just tell me and I’ll upgrade your README to **a portfolio-level GitHub project**.
 
