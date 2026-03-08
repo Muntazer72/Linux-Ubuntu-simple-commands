@@ -193,14 +193,5 @@ GitHub:
 
 This project is open-source and free to use for learning purposes.
 
----
-
-✅ **Important:**
-Replace these two things:
-
-* `yourusername` → with your **GitHub username**
-* GitHub link → with your **actual profile link**
-
----
 
 
