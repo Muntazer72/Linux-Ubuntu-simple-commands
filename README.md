@@ -187,6 +187,9 @@ Learning **AI, Cloud Computing, and Linux**
 GitHub:
 [https://github.com/Muntazer72](https://github.com/Muntazer72)
 
+LinkedIn:
+[https://linkedin.com/muntazermahdi](www.linkedin.com/in/muntazermahdi)
+
 ---
 
 # 📜 License
