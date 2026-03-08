@@ -188,7 +188,7 @@ GitHub:
 [https://github.com/Muntazer72](https://github.com/Muntazer72)
 
 LinkedIn:
-[https://linkedin.com/muntazermahdi](www.linkedin.com/in/muntazermahdi)
+(www.linkedin.com/in/muntazermahdi)
 
 ---
 
